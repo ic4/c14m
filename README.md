@@ -6,3 +6,4 @@ HOW TO START
 3. npm start
 4. visit http://localhost:3000/
 5. happy coding
+6. test
